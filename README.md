@@ -5,7 +5,7 @@
 - 🔭 Cursando Sistemas de Informação na ESPM
 - 🌱 Estudando Python, HTML/CSS, Tableau, e mais!!
 - 📫 Entre em contato comigo por: felipefurukawac@gmail.com
-- ⚡ Fun fact: "Sociedade dos Poetas Mortos é um dos meus filmes predilétos"! :)
+- ⚡ Fun fact: "Sociedade dos Poetas Mortos" é um dos meus filmes predilétos! :)
 
 
   <div style="display: inline_block"><br>
