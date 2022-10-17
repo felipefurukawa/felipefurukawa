@@ -6,6 +6,7 @@
 - 🌱 Estudando Python, HTML/CSS, Tableau, e mais!!
 - 📫 Entre em contato comigo por: felipefurukawac@gmail.com
 - ⚡ Fun fact: "Sociedade dos Poetas Mortos" é um dos meus filmes predilétos! :)
+- 🥇 Acesse o meu Portfoli: https://felipefurukawa.github.io/ || https://github.com/felipefurukawa/felipefurukawa.github.io
 
 
   <div style="display: inline_block"><br>
