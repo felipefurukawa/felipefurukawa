@@ -3,11 +3,11 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=felipefurukawa.felipefurukawa)](https://github.com/felipefurukawa)    
 
 - 🔭 Cursando Sistemas de Informação na ESPM
-- 🌱 Estudando Python, HTML/CSS, Tableau, e mais!!
+- 🌱 Estudando Python, HTML/CSS, Javascript, e mais!!
 - 📫 Entre em contato comigo por: felipefurukawac@gmail.com
 - ⚡ Fun fact: "Sociedade dos Poetas Mortos" é um dos meus filmes predilétos! :)
 - 🥇 Acesse o meu <b>Portfólio</b>: <b>https://felipefurukawa.github.io/ || https://github.com/felipefurukawa/felipefurukawa.github.io</b>
-- 🎫 Estagiário da diretoria de soluções na Imagem Geossistemas
+- 🎫 Estagiário da diretoria de soluções, atuando na área de utilities na Imagem Geossistemas
 
 
   <div style="display: inline_block"><br>
