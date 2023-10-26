@@ -37,7 +37,7 @@
  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefurukawa&layout=compact&langs_count=7&theme=dracula"/>
 
 
-
+![GitHub Readme Streak](http://github-readme-streak-stats.herokuapp.com?user=felipefurukawa&theme=dark&hide_border=true)
 
 
 
