@@ -7,7 +7,7 @@
 - 📫 Entre em contato comigo por: felipefurukawac@gmail.com
 - ⚡ Fun fact: "Sociedade dos Poetas Mortos" é um dos meus filmes predilétos! :)
 - 🥇 Acesse o meu <b>Portfólio</b>: <b>https://felipefurukawa.github.io/ || https://github.com/felipefurukawa/felipefurukawa.github.io</b>
-- 🎫 Estagiário da diretoria de soluções, atuando na área de utilities na Imagem Geossistemas
+- 🎫 Estagiário de automação e processos no C6 Bank!
 
 
   <div style="display: inline_block"><br>
