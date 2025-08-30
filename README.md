@@ -2,12 +2,12 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=felipefurukawa.felipefurukawa)](https://github.com/felipefurukawa)    
 
-- 🔭 Cursando Sistemas de Informação na ESPM
-- 🌱 Estudando Python, HTML/CSS, Javascript, e mais!!
+- 🔭 Formado em  Sistemas de Informação na ESPM
+- 🌱 Estudando Python, IA, Javascript, DataViz e mais!!
 - 📫 Entre em contato comigo por: felipefurukawac@gmail.com
 - ⚡ Fun fact: "Sociedade dos Poetas Mortos" é um dos meus filmes predilétos! :)
 - 🥇 Acesse o meu <b>Portfólio</b>: <b>https://felipefurukawa.github.io/ || https://github.com/felipefurukawa/felipefurukawa.github.io</b>
-- 🎫 Estagiário de automação e processos no C6 Bank!
+- 🎫 ANALISTA DE OPERAÇÕES/INOVAÇÃO JR no C6 Bank!
 
 
   <div style="display: inline_block"><br>
